@@ -1,5 +1,5 @@
 # JavaScript-Fundamentals 
-learn by examples:
+Learn by examples:
 Destructuring,
 import exports,
 Filter & Map Methods,
