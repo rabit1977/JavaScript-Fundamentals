@@ -1,6 +1,6 @@
 # JavaScript-Fundamentals 
 learn by examples:
--destructuring,
+Destructuring,
 import exports,
 Filter & Map Methods,
 Spread syntax,
